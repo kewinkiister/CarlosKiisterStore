@@ -1,0 +1,21 @@
+Ata 04/07/22
+Questões levantadas:
+-> Número de buscas diretas;
+-> Mix de estoques;
+-> Ticket medio do estoque;
+-> Frete -> Carrinhos abandonados-> opções de checkout
+-> Ferramenta yumpy -> Menos telas para finalização de pedidos (Melhora taxa de conversão)
+-> Verificar contrato de correio;
+-> 
+
+Questões levantadas por mim:
+-> Pix pelo
+-> Conteudo altoral
+-> Historys até 8 por dia;
+	- Instantaneo
+	- O que tenho em estoque
+	- 
+-> Feed 3 por semana;
+	- Vitrini
+	- Contar sobre as marcas e tendencias
+	- 
